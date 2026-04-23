@@ -2,9 +2,9 @@
 
 ![Social Preview](https://raw.githubusercontent.com/ShapArt/cases-and-achievements/main/.github/social-preview.png)
 
-[![Stars](https://img.shields.io/github/stars/ShapArt/=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/commits/main)
-[![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/commits/main)
+[![License](https://img.shields.io/github/license/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/blob/main/LICENSE)
 
 ## RU
 **Слоган:** Портфолио с цифрами
@@ -40,4 +40,5 @@ See .github/CONTRIBUTING.md.
 
 ## License
 See LICENSE.
+
 
