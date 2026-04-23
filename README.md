@@ -7,32 +7,33 @@
 [![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/blob/main/LICENSE)
 
 ## RU
-Portfolio of cases and achievements with metrics and artifacts.
+**Слоган:** Портфолио с цифрами
 
-### Зачем этот проект
-- Практичный инженерный проект с упором на качество
-- Ориентирован на практическое использование, а не «учебный шаблон».
-- Поддерживает единый стандарт качества профиля и репозиториев.
+Витрина кейсов и достижений с акцентом на результат, а не абстрактные обещания.
+
+### Что даёт проект
+- Быстрый запуск и понятный вход в задачу.
+- Практичный сценарий использования, а не «игрушечный» демо-кейс.
+- Поддерживаемая структура для роста и автоматизации.
 
 ### Быстрый старт
-- Открой README и документацию
-- Запусти команды из раздела запуска
+- Открой README/структуру проекта.
+- Запусти команды из текущего репозитория.
+- Используй шаблоны в .github/ для стандартизированного вклада.
 
 ### Для кого
-- Разработчики backend/automation решений.
-- Команды, которым нужна понятная архитектура и предсказуемый запуск.
+- Инженеры, которым важен результат, а не шум.
+- Команды, ценящие скорость внедрения и качество кода.
 
 ## EN
-Portfolio of cases and achievements with metrics and artifacts.
+**Tagline:** Портфолио с цифрами
 
-### Why this project
-- Практичный инженерный проект с упором на качество
-- Built for practical delivery, not just a demo.
-- Follows a consistent engineering quality standard.
+Cases and achievements portfolio centered on outcomes and metrics.
 
-### Quick start
-- Read documentation
-- Run project-specific commands
+### Value proposition
+- Fast onboarding and clear project intent.
+- Production-minded structure for scaling and automation.
+- Consistent contribution and quality standards.
 
 ## Contribution
 See .github/CONTRIBUTING.md.
