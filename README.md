@@ -1,157 +1,52 @@
-﻿# 🧭 Кейсы и достижения
+# cases-and-achievements
 
-[![CI](https://github.com/ShapArt/cases-and-achievements/actions/workflows/ci.yml/badge.svg)](https://github.com/ShapArt/cases-and-achievements/actions/workflows/ci.yml) [![license](https://img.shields.io/github/license/ShapArt/cases-and-achievements)](https://github.com/ShapArt/cases-and-achievements/blob/main/LICENSE)
+![License](https://img.shields.io/github/license/ShapArt/cases-and-achievements)
+![Last Commit](https://img.shields.io/github/last-commit/ShapArt/cases-and-achievements)
+![Language](https://img.shields.io/github/languages/top/ShapArt/cases-and-achievements)
 
+## EN Overview
+Cases & achievements portfolio (screens, metrics, artifacts)
 
+## RU Описание
+Cases & achievements portfolio (screens, metrics, artifacts)
 
+## EN Features
+- Clear project purpose and maintainable structure.
+- Standardized community and contribution files.
+- Consistent documentation style across account repositories.
 
+## RU Возможности
+- Понятная цель проекта и поддерживаемая структура.
+- Стандартизированные файлы сообщества и вклада.
+- Единый стиль документации во всех репозиториях аккаунта.
 
+## EN Quick Start
+Review repository files and docs for usage details.
 
-<table>
+## RU Быстрый старт
+Review repository files and docs for usage details.
 
+## EN Project Structure
+- .github/ - templates, policy files, CI config.
+- Source files and assets are stored in repository root or feature directories.
 
-<tr>
+## RU Структура проекта
+- .github/ - шаблоны, policy-файлы, конфиг CI.
+- Исходники и ресурсы находятся в корне или профильных директориях.
 
+## EN Roadmap
+- Improve test coverage and automation.
+- Keep docs aligned with actual project behavior.
 
-<td><b>✨ Что умеет</b><br/>Короткий список возможностей, ориентированных на ценность.</td>
+## RU Планы
+- Расширять покрытие тестами и автоматизацией.
+- Поддерживать документацию в актуальном состоянии.
 
+## EN Contributing
+See .github/CONTRIBUTING.md.
 
-<td><b>🧠 Технологии</b><br/>Стек, ключевые решения, нюансы безопасности.</td>
+## RU Вклад
+См. .github/CONTRIBUTING.md.
 
-
-<td><b>🖼️ Демо</b><br/>Скриншот/гиф или ссылка на Pages.</td>
-
-
-</tr>
-
-
-</table>
-
-
-
-
-
-> [!TIP]
-
-
-> Репозиторий оформлен по правилам: Conventional Commits, SemVer, CHANGELOG, SECURITY policy и CI.
-
-
-> Секреты — только через `.env`/секреты репозитория.
-
-
-
-
-
-
-
-
-<p align="left">
-
-
-  <img alt="build" src="https://img.shields.io/github/actions/workflow/status/ShapArt/cases-and-achievements/ci.yml?label=CI&logo=githubactions">
-
-
-  <img alt="license" src="https://img.shields.io/github/license/ShapArt/cases-and-achievements">
-
-
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/ShapArt/cases-and-achievements">
-
-
-  <img alt="issues" src="https://img.shields.io/github/issues/ShapArt/cases-and-achievements">
-
-
-  <img alt="stars" src="https://img.shields.io/github/stars/ShapArt/cases-and-achievements?style=social">
-
-
-</p>
-
-
-
-
-
-
-
-
-Сборник коротких описаний задач, метрик, до/после и выводов. Удобно кидать ссылку HR/тимлиду.
-
-
-- NAOS: экономия 1 ч/день за счёт Tampermonkey/Windows‑скриптов
-
-
-- VPN‑бот: запуск биллинга XTR, активные пользователи, стабильность
-
-
-- Изображения: кроппер/компрессор — ускорение подготовки контента
-
-
-
-
-
-## Быстрый старт
-
-
-
-
-
-*Заполнить по мере развития проекта.*
-
-
-
-
-
-
-
-
-## Архитектура
-
-
-
-
-
-*Заполнить по мере развития проекта.*
-
-
-
-
-
-
-
-
-## Конфигурация
-
-
-
-
-
-*Заполнить по мере развития проекта.*
-
-
-
-
-
-
-
-
-## Тесты
-
-
-
-
-
-*Заполнить по мере развития проекта.*
-
-
-
-
-
-
-
-
-## Roadmap
-
-
-
-
-
-*Заполнить по мере развития проекта.*
+## License / Лицензия
+See LICENSE.
