@@ -2,10 +2,9 @@
 
 ![Social Preview](https://raw.githubusercontent.com/ShapArt/cases-and-achievements/main/.github/social-preview.png)
 
-
-[![Stars](https://img.shields.io/github/stars/ShapArt/=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/commits/main)
-[![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/blob/main/LICENSE)
+[![Stars](https://img.shields.io/github/stars/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/commits/main)
+[![License](https://img.shields.io/github/license/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/blob/main/LICENSE)
 
 ## EN
 Portfolio of cases and achievements with metrics and artifacts.
@@ -39,6 +38,9 @@ See .github/CONTRIBUTING.md and open a focused PR.
 
 ## License / Лицензия
 See LICENSE.
+
+
+
 
 
 
