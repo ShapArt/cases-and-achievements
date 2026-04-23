@@ -2,46 +2,40 @@
 
 ![Social Preview](https://raw.githubusercontent.com/ShapArt/cases-and-achievements/main/.github/social-preview.png)
 
-[![Stars](https://img.shields.io/github/stars/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/commits/main)
-[![License](https://img.shields.io/github/license/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/blob/main/LICENSE)
-
-## EN
-Portfolio of cases and achievements with metrics and artifacts.
+[![Stars](https://img.shields.io/github/stars/ShapArt/=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/commits/main)
+[![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/blob/main/LICENSE)
 
 ## RU
 Portfolio of cases and achievements with metrics and artifacts.
 
-## Why this project matters / Зачем нужен проект
-- Built as a practical engineering project with clear delivery goals.
-- Prioritizes maintainability and explicit documentation.
-- Designed to evolve with CI/testing and production constraints.
+### Зачем этот проект
+- Практичный инженерный проект с упором на качество
+- Ориентирован на практическое использование, а не «учебный шаблон».
+- Поддерживает единый стандарт качества профиля и репозиториев.
 
-## Best for / Для кого
-- Engineers who prefer pragmatic, documented workflows.
-- Portfolio reviewers evaluating implementation quality.
+### Быстрый старт
+- Открой README и документацию
+- Запусти команды из раздела запуска
 
-## Quick Run / Быстрый запуск
-- Read repository-specific docs
-- Execute project commands as documented
+### Для кого
+- Разработчики backend/automation решений.
+- Команды, которым нужна понятная архитектура и предсказуемый запуск.
 
-## Repository Compass / Навигация
-- README.md - product context and run flow.
-- .github/ - contribution standards, templates, CI policy.
-- Source directories - core implementation and assets.
+## EN
+Portfolio of cases and achievements with metrics and artifacts.
 
-## Topics / Темы
-$topics
+### Why this project
+- Практичный инженерный проект с упором на качество
+- Built for practical delivery, not just a demo.
+- Follows a consistent engineering quality standard.
 
-## Contribution / Вклад
-See .github/CONTRIBUTING.md and open a focused PR.
+### Quick start
+- Read documentation
+- Run project-specific commands
 
-## License / Лицензия
+## Contribution
+See .github/CONTRIBUTING.md.
+
+## License
 See LICENSE.
-
-
-
-
-
-
-
