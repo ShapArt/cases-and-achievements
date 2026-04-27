@@ -1,44 +1,52 @@
 # cases-and-achievements
 
-![Social Preview](https://raw.githubusercontent.com/ShapArt/cases-and-achievements/main/.github/social-preview.png)
+Companion repository for curated portfolio notes, case summaries, and achievement-oriented documentation.
 
-[![Stars](https://img.shields.io/github/stars/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/commits/main)
-[![License](https://img.shields.io/github/license/ShapArt/cases-and-achievements?style=for-the-badge)](https://github.com/ShapArt/cases-and-achievements/blob/main/LICENSE)
+## What this repository should be
+
+`cases-and-achievements` works best as a curated portfolio companion, not as a generic dump of claims.
+
+A strong cases repository should help a reader understand the story behind selected work:
+
+- what problem existed;
+- what was built;
+- what constraints mattered;
+- what role the author played;
+- what changed after the work was done;
+- what can be proven or inspected.
+
+## Important positioning note
+
+Outcome-focused writing is useful, but only when the outcomes are real.
+
+This repository should avoid invented metrics, inflated claims, or vague achievement language. It is better to write one concrete case honestly than ten dramatic but unverifiable paragraphs.
+
+## Suggested structure
+
+A good case entry can follow this format:
+
+```text
+Case title
+Context
+Problem
+Constraints
+What I built
+Technical decisions
+Result or current status
+Evidence / repository / screenshots
+What I would improve next
+```
+
+## Portfolio value
+
+This repository can become a strong navigation layer between the GitHub profile and individual projects.
+
+It is especially useful for projects that are private, internal, or hard to understand from source code alone. In those cases, a short case write-up can explain the workflow and engineering decisions without exposing sensitive materials.
 
 ## RU
-**Слоган:** Портфолио с цифрами
 
-Витрина кейсов и достижений с акцентом на результат, а не абстрактные обещания.
-
-### Что даёт проект
-- Быстрый запуск и понятный вход в задачу.
-- Практичный сценарий использования, а не «игрушечный» демо-кейс.
-- Поддерживаемая структура для роста и автоматизации.
-
-### Быстрый старт
-- Открой README/структуру проекта.
-- Запусти команды из текущего репозитория.
-- Используй шаблоны в .github/ для стандартизированного вклада.
-
-### Для кого
-- Инженеры, которым важен результат, а не шум.
-- Команды, ценящие скорость внедрения и качество кода.
-
-## EN
-**Tagline:** Портфолио с цифрами
-
-Cases and achievements portfolio centered on outcomes and metrics.
-
-### Value proposition
-- Fast onboarding and clear project intent.
-- Production-minded structure for scaling and automation.
-- Consistent contribution and quality standards.
-
-## Contribution
-See .github/CONTRIBUTING.md.
+Репозиторий для аккуратной витрины кейсов и достижений. Главное правило: лучше меньше, но конкретно. Без выдуманных цифр, без громких обещаний, без пустого маркетинга. Хороший кейс должен объяснять проблему, ограничения, решение и подтверждаемую ценность.
 
 ## License
-See LICENSE.
 
-
+See `LICENSE`.
