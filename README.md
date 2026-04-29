@@ -1,52 +1,49 @@
-# cases-and-achievements
+# Cases and Achievements
 
-Companion repository for curated portfolio notes, case summaries, and achievement-oriented documentation.
+Curated case-study repository for the strongest engineering work behind the [ShapArt GitHub profile](https://github.com/ShapArt).
 
-## What this repository should be
+This repository is not a generic list of claims. It is a structured portfolio layer: each case explains the problem, the solution, the stack, the result, and what was learned.
 
-`cases-and-achievements` works best as a curated portfolio companion, not as a generic dump of claims.
+## Featured case studies
 
-A strong cases repository should help a reader understand the story behind selected work:
+| Case | Area | Why it matters |
+|---|---|---|
+| [EyeGate-L / Luckfox SCUD](cases/01-eyegate-l-luckfox-scud.md) | Computer vision, edge, access control | Strongest technical prototype: CV, constrained hardware, local deployment, and security-oriented design |
+| [SLA / Outlook Tracker](cases/02-sla-outlook-tracker.md) | Office automation, reporting | Turns mailbox-driven work into structured operational data and status tracking |
+| [Matrtix-Cleaner](cases/03-matrtix-cleaner.md) | Browser automation, OpenText | Guarded bulk changes for approval matrices with preview, audit, and operator control |
+| [OpenText Operator Bridge](cases/04-opentext-operator-bridge.md) | Backend, workflow tooling | Intake, triage, and bounded action planning for fragmented document-workflow support scenarios |
+| [Sh4pArt VPN](cases/05-sh4part-vpn.md) | Backend, Telegram bot, infrastructure | Full delivery flow from payment to provisioning, profile delivery, and reminders |
 
-- what problem existed;
-- what was built;
-- what constraints mattered;
-- what role the author played;
-- what changed after the work was done;
-- what can be proven or inspected.
+## Case-study format
 
-## Important positioning note
-
-Outcome-focused writing is useful, but only when the outcomes are real.
-
-This repository should avoid invented metrics, inflated claims, or vague achievement language. It is better to write one concrete case honestly than ten dramatic but unverifiable paragraphs.
-
-## Suggested structure
-
-A good case entry can follow this format:
+Each case follows the same structure:
 
 ```text
-Case title
-Context
 Problem
-Constraints
-What I built
-Technical decisions
-Result or current status
-Evidence / repository / screenshots
-What I would improve next
+Solution
+Stack
+Result
+What I learned
 ```
 
-## Portfolio value
+The goal is to show engineering thinking, not just a list of technologies.
 
-This repository can become a strong navigation layer between the GitHub profile and individual projects.
+## Positioning
 
-It is especially useful for projects that are private, internal, or hard to understand from source code alone. In those cases, a short case write-up can explain the workflow and engineering decisions without exposing sensitive materials.
+The strongest pattern across these cases is applied automation:
+
+- reduce manual work;
+- make fragile workflows inspectable;
+- keep risky actions bounded;
+- connect backend logic with real operator needs;
+- document trade-offs honestly.
+
+## Notes on confidentiality
+
+Some work touches internal processes, document workflow systems, or non-public environments. Public case studies describe the engineering shape and decisions without exposing private data, credentials, internal URLs, or sensitive business details.
 
 ## RU
 
-Репозиторий для аккуратной витрины кейсов и достижений. Главное правило: лучше меньше, но конкретно. Без выдуманных цифр, без громких обещаний, без пустого маркетинга. Хороший кейс должен объяснять проблему, ограничения, решение и подтверждаемую ценность.
+Это репозиторий с кейсами для портфолио. Каждый кейс объясняет не просто “что было сделано”, а зачем это нужно, какую проблему решает, какой стек использовался, какой результат получился и чему проект научил.
 
-## License
-
-See `LICENSE`.
+Главная тема портфолио: backend, automation, operator tooling и безопасность процессов.
